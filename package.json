@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ap3400568/RegistryForNpm.git"
   },
+"publishConfig": {
+  "@ap3400568:registry": "https://npm.pkg.github.com"
+},
   "author": "amit",
   "license": "ISC",
   "bugs": {
