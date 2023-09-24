@@ -1,6 +1,6 @@
 {
-  "name": "@ap3400568/restryfornpm",
-  "version": "2.0.0",
+  "name": "com.mytest.test",
+  "version": "3.0.0",
   "description": "this is testing for npm file",
   "main": "index.js",
   "scripts": {
