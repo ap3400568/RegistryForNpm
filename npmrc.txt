@@ -1,1 +1,2 @@
 @ap3400568:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=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
