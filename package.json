@@ -1,13 +1,15 @@
 {
-"name": "com.mayaa.verser",
-"displayName": "Mayaa Verse Private Limited",
-"description": "this is mayaa verse private limite v2.0.3",
-"version": "2.0.3",
-"unity": "2018.3",
-"license": "MIT",
-"dependencies": {
- }
-"publishConfig": {
-  "@ap3400568:registry": "https://npm.pkg.github.com"
-}
+  "name": "@ap3400568/registryfornpm",
+  "version": "1.0.0",
+  "description": "this is custom unity package testing\r \"# RegistryForNpm\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amit pandey",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "RegistryForNpm"
+  }
 }
