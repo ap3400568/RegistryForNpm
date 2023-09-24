@@ -6,7 +6,10 @@
 "unity": "2018.3",
  
   "version": "3.0.0",
-  
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
  
   "repository": {
     "type": "git",
