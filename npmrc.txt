@@ -1,3 +1,1 @@
-//npm.pkg.github.com/:_authToken=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
-@ap3400568:registry=https://npm.pkg.github.com
-always-auth=true
+@ap3400568:registry=https://npm.pkg.github.com/
