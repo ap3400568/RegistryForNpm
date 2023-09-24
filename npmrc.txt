@@ -1,1 +1,1 @@
-@ap3400568:registry=https://npm.pkg.github.com
+registry=https://npm.pkg.github.com/ap3400568/
