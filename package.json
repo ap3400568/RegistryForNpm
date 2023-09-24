@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ap3400568/RegistryForNpm.git"
+    "url": "git+https://github.com/ap3400568/RegistryForNpm.git",
 	"directory": "com.mayaaverse.test"
   },
   "publishConfig": {
