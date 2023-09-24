@@ -1,0 +1,10 @@
+{
+"name": "com.mayaa.verser",
+"displayName": "Mayaa Verse Private Limited",
+"description": "this is mayaa verse private limite v2.0.3",
+"version": "2.0.3",
+"unity": "2018.3",
+"license": "MIT",
+"dependencies": {
+ }
+}
