@@ -7,4 +7,7 @@
 "license": "MIT",
 "dependencies": {
  }
+"publishConfig": {
+  "@ap3400568:registry": "https://npm.pkg.github.com"
+}
 }
