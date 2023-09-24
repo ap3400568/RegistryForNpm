@@ -1,6 +1,6 @@
 {
-  "name": "@ap3400568/registryfornpm",
-  "version": "4.0.0",
+  "name": "com.mayaaverse.test",
+  "version": "5.0.0",
   "description": "this is testing for npm file",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ap3400568/RegistryForNpm.git"
   },
   "publishConfig": {
-    "@ap3400568:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@ap3400568"
   },
   "author": "amit",
   "license": "ISC",
