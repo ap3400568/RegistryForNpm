@@ -1,16 +1,11 @@
 {
-	"name": "com.mayaaa.verser",
-"displayName": "Mayaa Verse Private Limited",
-"description": "this is mayaa verse private limite v4.0.0",
-
-"unity": "2018.3",
- 
-  "version": "3.0.0",
+  "name": "@ap3400568/registryfornpm",
+  "version": "4.0.0",
+  "description": "this is testing for npm file",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
- 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ap3400568/RegistryForNpm.git"
